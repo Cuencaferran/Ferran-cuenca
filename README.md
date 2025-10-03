@@ -2,10 +2,6 @@
 
 *Cicle Formatiu de Grau Mitjà en Sistemes Microinformàtics i Xarxes*
 
----
-
-![Ferran Cuenca](./path_to_image.jpg)  
-*(Substitueix ./path_to_image.jpg per la ruta de la imatge)*
 
 ---
 
