@@ -7,14 +7,22 @@
 
 ## Formació
 
-**2026**  
-Introducció a la Ciberseguretat, Sistemes Operatius i Xarxes, Programació Bàsica
+**Cicle Formatiu de Grau Mitjà en Sistemes Microinformàtics i Xarxes**  
+**Escola Pia Santa Anna**  
+2024 - Actualitat (en curs)  
 
-**2027**  
-Anàlisi de Vulnerabilitats, Seguretat de la Nube, Desenvolupament d'Aplicacions Segures
+- Introducció a la Ciberseguretat  
+- Sistemes Operatius i Xarxes  
+- Programació Bàsica  
+- Anàlisi de Vulnerabilitats  
+- Seguretat de la Nube  
+- Desenvolupament d'Aplicacions Segures  
+- Tècniques de Formació i Metodologia d’Ensenyament a Adults  
+- Gestió de Projectes TIC  
 
-**2028**  
-Tècniques de Formació, Metodologia d'ensenyament a adults, Gestió de Projectes TIC
+**Educació Secundària Obligatòria (ESO)**  
+**Escola Gem**  
+2023
 
 ---
 
@@ -34,18 +42,9 @@ Em dic Ferran Cuenca Garcia, ara després d’haver acabat l’ESO, estic fent u
 
 ## Experiència laboral
 
-- Voluntariat cursa del Alzheimer (2022)  
-- TecnoCampus ed-hack: creació d’una maqueta d’una casa a la universitat de TecnoCampus (2023)  
-- Peixater (He ajudat al meu pare l’estiu de 2024)
-
----
-
-## Educació
-
-**Escola Pia Santa Anna**  
-Cicle formatiu de grau mitjà de sistemes microinformàtics i xarxes (2024 - En Curs)  
-Escola Gem  
-ESO (2023)
+- **Voluntariat cursa del Alzheimer** (2022)  
+- **TecnoCampus ed-hack**: Creació d’una maqueta d’una casa a la universitat de TecnoCampus (2023)  
+- **Peixater**: He ajudat al meu pare l’estiu de 2024
 
 ---
 
@@ -64,3 +63,4 @@ ESO (2023)
 - Castellà natiu  
 - Català natiu  
 - Anglès B1
+
