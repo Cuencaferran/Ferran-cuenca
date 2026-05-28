@@ -8,7 +8,7 @@
 
 ## 📌 Sobre mi
 
-Em dic **Ferran Cuenca Garcia**. Soc un aprenent apassionat de la tecnologia, actualment cursant el **Cicle Formatiu de Grau Mitjà en Sistemes Microinformàtics i Xarxes**. Des que vaig començar aquest camí, he descobert que la tecnologia no només és el meu futur professional, sinó també la meva gran motivació diària.
+Em dic **Ferran Cuenca Garcia**. Soc un aprenent apassionat de la tecnologia, actualment cursant el **Cicle Formatiu de Grau Mitjà en Sistemes Microinformàtics i Xarxes**. 
 
 Soc una persona **proactiva, autònoma i amb facilitat per treballar en equip**. M'agrada afrontar nous reptes, aprendre ràpidament i buscar solucions eficients als problemes tècnics que sorgeixen. La meva inquietud per millorar contínuament em porta a estar sempre al dia de les noves tendències tecnològiques.
 
