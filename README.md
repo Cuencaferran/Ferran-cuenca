@@ -94,6 +94,9 @@ Soc una persona **proactiva, autònoma i amb facilitat per treballar en equip**.
 - 🌱 Aplicar criteris **Green IT** en entorns professionals
 - 🎓 Continuar formant-me per arribar a ser un **professional referent** en el sector tecnològic
 
+## ARA SOMI A LA PRESENTACIÓ FINAL DE TOT AQUEST ANY
+
+**[LINK PRESENTACIÓ](https://github.com/Cuencaferran/PRESENTACI-FINAL)**
 ---
 
 
