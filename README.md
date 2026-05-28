@@ -2,7 +2,7 @@
 
 ### *Tècnic en Sistemes Microinformàtics i Xarxes en formació*
 
-> *"L'aprenentatge continu i la passió per la tecnologia em defineixen com a professional i com a persona."*
+
 
 ---
 
